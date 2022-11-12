@@ -11,7 +11,7 @@ function App() {
   return (
    
      <header>
-     <h1>Mi Pagina Web</h1>
+ 
       <section className="componentes">
         
 <NavBar/>

@@ -4,9 +4,9 @@ class NavBar extends React.Component   {
 return (
 
   <div class="grid-container">
-  <nav class="navbar navbar-expand-lg "  navbar-dark bg-primary >
+  <nav class="navbar navbar-expand-lg " NavBar navbar-dark bg-primary >
     <a class="navbar-brand" href="#">
-      <img src="cursoreact\src\componentes\img\attachment_112133397.png" alt="logo" width="150 px"></img>
+      <img src="cursoreact\src\img\logo-gradiente-tecnologia_52683-8525.webp" alt="logo" width="150 px"></img>
     </a>
     <button
       class="navbar-toggler"
